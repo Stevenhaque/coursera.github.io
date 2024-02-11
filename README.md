@@ -1,1 +1,1 @@
-A repo for Coursera assignment.
+A Repository for Coursera assignment.
